@@ -6,7 +6,7 @@ Desafio proposto no curso de Cyber Security da DIO que simula um ataque de Phish
 
 ## Objetivo
 
-Demonstrar de forma prática como funciona um ataque de **Credential Harvesting** (colheita de credenciais) utilizando técnicas de engenharia social com a ferramenta **setoolkit**, clonando a interface do Facebook para capturar login e senha digitados pela vítima.
+Demonstrar de forma prática como funciona um ataque de **Credential Harvesting** (colheita de credenciais) utilizando técnicas de engenharia social com a ferramenta **setoolkit**, clonando a interface do Instagram para capturar login e senha digitados pela vítima.
 
 ---
 
